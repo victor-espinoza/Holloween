@@ -2,7 +2,11 @@
 Project Overview:      
 Halloween Superstore using MVC Design Pattern.      
       
-In this project I implemented a shopping cart for a Halloween Superstore. This project builds off of the Books Database Entity Data Model by taking that model and creating a an ASP.NET Core Model, View, Controller (MVC) web application out of it. This project allows users to create new book entries, update book entries, display all of the book information of the books inside the database, delete book entries, and search through the books database for book information via keywords and publishing year. I also included validation logic to the BookTitle model in order to ensure that the validation rules were enforced any time a user created or edited a Book.          
+In this project I implemented a shopping cart for a Halloween Superstore. This project uses the Halloween Database and creates an ASP.NET Core Model, View, Controller (MVC) web application out of it. This project allows users to view various Halloween-related items and their information in the Order page as well as add these items to their shopping cart. After an order is added to the cart, the user is taken to the Shopping Cart page. If they are ready to place their order, they can then click the Checkout button, otherwise they can click on the Order link on the left-hand side of the website. 
+
+Once the user goes to the Checkout page, they are then shown their order information and prompted to enter payment and shipping information. I also included validation logic to the CheckoutViewModel model in order to ensure that the validation rules were enforced any time a user entered checkout information. Once the Checkout information passes the validation rules and the user pushes the Place Order button, they are then redirected to a Confirmation Page.    
+    
+The user Checkout information does not go anywhere after it is submitted, so in reality the user is not really placing an order for Halloween items. This project was simply made to demonstrate the process of implementing a shopping cart for a fictional store.     
       
 MVC Background (courtesy of Microsoft MVC Tutorial):      
 The Model-View-Controller (MVC) design pattern separates an app into three main components: Model, View, and Controller. The MVC pattern helps you create apps that separate the different aspects of the app (input logic, business logic, and UI logic), while providing a loose coupling between these elements.      
@@ -18,7 +22,7 @@ Views: Views are the components that display the app's user interface (UI). Gene
 Controllers: Classes that handle browser requests. They retrieve model data and call view templates that return a response. In an MVC app, the view only displays information; the controller handles and responds to user input and interaction. For example, the controller handles route data and query-string values, and passes these values to the model. The model might use these values to query the database.        
      
         
-Dependencies:
+Dependencies:      
 This project was created using Microsoft Visual Studio Community 2013 for Windows Desktop Version: 12.0.40629.00 Update 5.
       
        
