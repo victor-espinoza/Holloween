@@ -34,10 +34,10 @@ Below are some screenshots of different operations that can be executed while ru
      
 ![ScreenShot](https://user-images.githubusercontent.com/14812721/47127164-dd756b80-d240-11e8-9399-abf3ce341f3b.jpg)     
      
-![ScreenShot](https://user-images.githubusercontent.com/assets/14812721/47127165-dd756b80-d240-11e8-983e-d6558cbf5dcf.jpg)     
+![ScreenShot](https://user-images.githubusercontent.com/14812721/47127165-dd756b80-d240-11e8-983e-d6558cbf5dcf.jpg)     
      
-![ScreenShot](https://user-images.githubusercontent.com/assets/14812721/47127166-dd756b80-d240-11e8-9f33-72bdc0663b7c.jpg)     
+![ScreenShot](https://user-images.githubusercontent.com/14812721/47127166-dd756b80-d240-11e8-9f33-72bdc0663b7c.jpg)     
      
-![ScreenShot](https://user-images.githubusercontent.com/assets/14812721/47127167-de0e0200-d240-11e8-957e-ce194b070977.jpg)     
+![ScreenShot](https://user-images.githubusercontent.com/14812721/47127167-de0e0200-d240-11e8-957e-ce194b070977.jpg)     
       
 ![ScreenShot](https://user-images.githubusercontent.com/14812721/47127168-dea69880-d240-11e8-8b2b-e0245fb15e55.jpg)
