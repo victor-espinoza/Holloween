@@ -1,5 +1,5 @@
 # Lab_7_Shopping_Cart_MVC 
-Project Overview:      
+Project Overview:     
 Halloween Superstore using MVC Design Pattern.      
       
 In this project I implemented a shopping cart for a Halloween Superstore. This project uses the Halloween Database and creates an ASP.NET Core Model, View, Controller (MVC) web application out of it. This project allows users to view various Halloween-related items and their information in the Order page as well as add these items to their shopping cart. After an order is added to the cart, the user is taken to the Shopping Cart page. If they are ready to place their order, they can then click the Checkout button, otherwise they can click on the Order link on the left-hand side of the website. 
