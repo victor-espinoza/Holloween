@@ -28,16 +28,16 @@ This project was created using Microsoft Visual Studio Community 2013 for Window
        
 Sample Output:     
 Below are some screenshots of different operations that can be executed while running the project: 
-![ScreenShot](https://cloud.githubusercontent.com/assets/14812721/47127170-df3f2f00-d240-11e8-894a-b48a25102051.jpg)    
+![ScreenShot](https://user-images.githubusercontent.com/14812721/47127170-df3f2f00-d240-11e8-894a-b48a25102051.jpg)    
      
-![ScreenShot](https://cloud.githubusercontent.com/assets/14812721/47127163-dcdcd500-d240-11e8-9ef3-218c16ddfcd8.jpg)     
+![ScreenShot](https://user-images.githubusercontent.com/14812721/47127163-dcdcd500-d240-11e8-9ef3-218c16ddfcd8.jpg)     
      
-![ScreenShot](https://cloud.githubusercontent.com/assets/14812721/47127164-dd756b80-d240-11e8-9399-abf3ce341f3b.jpg)     
+![ScreenShot](https://user-images.githubusercontent.com/14812721/47127164-dd756b80-d240-11e8-9399-abf3ce341f3b.jpg)     
      
-![ScreenShot](https://cloud.githubusercontent.com/assets/14812721/47127165-dd756b80-d240-11e8-983e-d6558cbf5dcf.jpg)     
+![ScreenShot](https://user-images.githubusercontent.com/assets/14812721/47127165-dd756b80-d240-11e8-983e-d6558cbf5dcf.jpg)     
      
-![ScreenShot](https://cloud.githubusercontent.com/assets/14812721/47127166-dd756b80-d240-11e8-9f33-72bdc0663b7c.jpg)     
+![ScreenShot](https://user-images.githubusercontent.com/assets/14812721/47127166-dd756b80-d240-11e8-9f33-72bdc0663b7c.jpg)     
      
-![ScreenShot](https://cloud.githubusercontent.com/assets/14812721/47127167-de0e0200-d240-11e8-957e-ce194b070977.jpg)     
+![ScreenShot](https://user-images.githubusercontent.com/assets/14812721/47127167-de0e0200-d240-11e8-957e-ce194b070977.jpg)     
       
-![ScreenShot](https://cloud.githubusercontent.com/14812721/47127168-dea69880-d240-11e8-8b2b-e0245fb15e55.jpg)
+![ScreenShot](https://user-images.githubusercontent.com/14812721/47127168-dea69880-d240-11e8-8b2b-e0245fb15e55.jpg)
