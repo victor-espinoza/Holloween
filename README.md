@@ -40,4 +40,4 @@ Below are some screenshots of different operations that can be executed while ru
      
 ![ScreenShot](https://cloud.githubusercontent.com/assets/14812721/47127167-de0e0200-d240-11e8-957e-ce194b070977.jpg)     
       
-![ScreenShot](https://cloud.githubusercontent.com/assets/14812721/47127168-dea69880-d240-11e8-8b2b-e0245fb15e55.jpg)
+![ScreenShot](https://cloud.githubusercontent.com/14812721/47127168-dea69880-d240-11e8-8b2b-e0245fb15e55.jpg)
