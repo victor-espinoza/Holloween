@@ -1,4 +1,3 @@
-# Shopping_Cart_MVC 
 Project Overview:     
 Halloween Superstore using MVC Design Pattern.      
       
