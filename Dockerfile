@@ -1,18 +1,25 @@
 # NuGet restore
 FROM mcr.microsoft.com/dotnet/core/sdk:3.1 AS build-env
-WORKDIR /Users/Victor Espinoza/Documents/GitHub/C#_Programs/Holloween_Superstore
-COPY Ch24ShoppingCartMVC.sln .
+WORKDIR /src
+COPY *.sln .
 COPY Ch24ShoppingCartMVC/*.csproj Ch24ShoppingCartMVC/
 RUN dotnet restore
-
-#Copy everything else and build
 Copy . ./
-RUN dotnet publish -c Release -o out
+
+# testing
+FROM build AS testing
+WORKDIR /src/Ch24ShoppingCartMVC
+RUN dotnet build
+
+# publish
+FROM build AS publish
+WORKDIR /src/Ch24ShoppingCartMVC
+RUN dotnet publish -c Release -o /src/publish
 
 # Build runtime image
-FROM mcr.microsoft.com/dotnet/core/aspnet:3.1
-WORKDIR /Users/Victor Espinoza/Documents/GitHub/C#_Programs/Holloween_Superstore
-Copy . ./
+FROM mcr.microsoft.com/dotnet/core/aspnet:3.1 AS runtime
+WORKDIR /app
+Copy --from=publish /src/publish .
 # ENTRYPOINT ["dotnet", "Ch24ShoppingCartMVC.dll"]
 # heroku uses the following
 CMD ASPNETCORE_URLS=http://*:$PORT dotnet Ch24ShoppingCartMVC.dll
