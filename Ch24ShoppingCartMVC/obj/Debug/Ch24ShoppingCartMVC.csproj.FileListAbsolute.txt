@@ -222,7 +222,6 @@ C:\Users\Victor Espinoza\Desktop\CECS 475\ShoppingCartMVC\Ch24ShoppingCartMVC\bi
 C:\Users\Victor Espinoza\Desktop\CECS 475\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.csprojResolveAssemblyReference.cache
 C:\Users\Victor Espinoza\Desktop\CECS 475\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.dll
 C:\Users\Victor Espinoza\Desktop\CECS 475\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.pdb
-C:\Users\Victor Espinoza\Documents\GitHub\C#_Programs\Holloween_Superstore\Ch24ShoppingCartMVC\bin\Ch24ShoppingCartMVC.dll.config
 C:\Users\Victor Espinoza\Documents\GitHub\C#_Programs\Holloween_Superstore\Ch24ShoppingCartMVC\bin\Ch24ShoppingCartMVC.dll
 C:\Users\Victor Espinoza\Documents\GitHub\C#_Programs\Holloween_Superstore\Ch24ShoppingCartMVC\bin\Ch24ShoppingCartMVC.pdb
 C:\Users\Victor Espinoza\Documents\GitHub\C#_Programs\Holloween_Superstore\Ch24ShoppingCartMVC\bin\Antlr3.Runtime.dll
