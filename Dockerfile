@@ -1,6 +1,5 @@
 # NuGet restore
 FROM mcr.microsoft.com/dotnet/core/sdk:3.1 AS build-env
-WORKDIR /src
 COPY *.sln .
 COPY Ch24ShoppingCartMVC/*.csproj Ch24ShoppingCartMVC/
 RUN dotnet restore
@@ -8,12 +7,12 @@ Copy . ./
 
 # testing
 FROM build AS testing
-WORKDIR /src/Ch24ShoppingCartMVC
+WORKDIR /Ch24ShoppingCartMVC
 RUN dotnet build
 
 # publish
 FROM build AS publish
-WORKDIR /src/Ch24ShoppingCartMVC
+WORKDIR /Ch24ShoppingCartMVC
 RUN dotnet publish -c Release -o /src/publish
 
 # Build runtime image
